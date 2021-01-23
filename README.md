@@ -1,6 +1,6 @@
 # Love Couple Mod
 Love Couple is an Among Us modification, which adds a new win condition for two randomly chosen players.
-<img src ="Pics/SheriffMod.png" width="1000"></img>
+<img src ="Pics/LoveCoupleMod.png" width="1000"></img>
 
 <h3>What does the Love Couple do?</h3>
 The primary objective of the Love Couple is to stay alive together. If they are among the last 3 players they win.
