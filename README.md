@@ -44,7 +44,7 @@ They can win as an Impostor or Crewmate as well (secondary objective).
 Check out Love Couple Mod on CurseForge: <a href="https://www.curseforge.com/among-us/mods/sheriff-mod">https://www.curseforge.com/among-us/mods/sheriff-mod</a>
 <h2>Q&A</h2>
 <p><b>How is the Love Couple determined?</b></br>
-There are two types of Love Couples. With a probability of 66.6% the pair consists of two Crewmates.</br> The second type comes with a chance of 33.3% which pairs an Impostor and a Crewmate.</p>
+There are two types of Love Couples. With a probability of 66.6% the pair consists of two Crewmates.</br> The second type comes with a chance of 33.3% which pairs an Impostor with a Crewmate.</p>
 <p><b>What does happen in this situation (Imposter + Crewmate, Impostor, Crewmate)?</b></br>
 The game does <b>not</b> end. Depending on the next kill the Love Couple or Impostors win</p>
 <p><b>Can you play Proximity Chat (Crewlink) with it?</b></br>
