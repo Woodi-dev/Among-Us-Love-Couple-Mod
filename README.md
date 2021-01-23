@@ -42,14 +42,15 @@ If one lover dies, the other still can win as an Impostor or Crewmate (secondary
 </details>
 Check out Love Couple Mod on CurseForge: <a href="https://www.curseforge.com/among-us/mods/sheriff-mod">https://www.curseforge.com/among-us/mods/sheriff-mod</a>
 <h2>Q&A</h2>
- 
+<p><b>How is the Love Couple determined?</b></br>
+There are two types of Love Couples. With a probability of 66.6% the pair consists of two Crewmates.</br> The second type comes with a chance of 33.3% which pairs an Impostor and a Crewmate.</p>
 <p><b>Can you play Proximity Chat (Crewlink) with it?</b></br>
 Yes Crewlink does support Among Us Modifications.</p>
-<p><b>Can you get banned for playing on public Servers?</b></br>
+<p><b>Can you get banned for playing on public servers?</b></br>
 At the current state of the game there is no perma ban system for the game. The mod is designed in a way, that it does not send prohibited server requests.
 You are also able to join your own custom server to be safe <a href="https://github.com/Impostor/Impostor">(Impostor)</a></p>
 <p><b>How can i join a custom server?</b></br>
-Go to your game directory and open BepInEx/config/org.bepinex.plugins.SheriffMod.txt. There you can set the hostname or IP of the server. Then set the server region to CUSTOM.</p>
+Go to your game directory and open BepInEx/config/org.bepinex.plugins.CustomServer.txt. There you can set the hostname or IP of the server. Then set the server region to CUSTOM.</p>
 <p><b>Do my friends need to install the mod to play it together?</b></br>
 Yes. Every player in the game lobby has to install it.</p>
 <h2>Donate</h2>
