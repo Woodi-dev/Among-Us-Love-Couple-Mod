@@ -33,7 +33,7 @@ They can win as an Impostor or Crewmate as well (secondary objective) for which 
   <tr>
     <td>v2020.12.9s</td>
     <td>v1.0</td>
-    <td><a href="https://github.com/Woodi-dev/Sheriff-Mod/releases/download/v2020.12.9s/Among.Us.Sheriff.Mod.1.01.zip">Download</></td>
+    <td><a href="https://github.com/Woodi-dev/Among-Us-Love-Couple-Mod/releases/download/v1.0_2020.12.9s/Among.Us.Love.Couple.Mod.1.0.zip">Download</></td>
   </tr>
 
 </table>
