@@ -41,7 +41,7 @@ They can win as an Impostor or Crewmate as well (secondary objective) for which 
   <summary>Changelog</summary>
   
 </details>
-Check out Love Couple Mod on CurseForge: <a href="https://www.curseforge.com/among-us/mods/sheriff-mod">https://www.curseforge.com/among-us/mods/sheriff-mod</a>
+Check out Love Couple Mod on CurseForge: <a href="https://www.curseforge.com/among-us/mods/love-couple-mod">https://www.curseforge.com/among-us/mods/love-couple-mod</a>
 <h2>Q&A</h2>
 <p><b>How is the Love Couple determined?</b></br>
 There are two types of Love Couples. With a probability of 66.6% the pair consists of two Crewmates.</br> The second type occures with a chance of 33.3% and pairs an Impostor with a Crewmate.</p>
