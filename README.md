@@ -4,7 +4,7 @@ Love Couple is an Among Us modification, which adds a new win condition for two 
 
 <h3>What does the Love Couple do?</h3>
 The primary objective of the Love Couple is to stay alive together. If they are among the last 3 players they win.
-They can win as an Impostor or Crewmate as well (secondary objective).
+They can win as an Impostor or Crewmate as well (secondary objective) for which reason both lovers do not know each other's role.
 <h3>Additional Features</h3>
 <ul>
 <li> Both lovers die together option can be set</li>
