@@ -44,7 +44,10 @@ Each lover can win as an Impostor or Crewmate as well (secondary objective) for 
 </table>
 <details>
   <summary>Changelog</summary>
-  
+ <h3>v1.1</h3>
+ <ul>
+ <li>Fixed a bug: Love Couple does not win if one player disconnects with 4 players alive</li>
+ </ul>
 </details>
 Check out Love Couple Mod on CurseForge: <a href="https://www.curseforge.com/among-us/mods/love-couple-mod">https://www.curseforge.com/among-us/mods/love-couple-mod</a>
 <h2>Q&A</h2>
