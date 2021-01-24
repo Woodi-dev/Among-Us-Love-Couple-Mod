@@ -9,7 +9,7 @@ Each lover can win as an Impostor or Crewmate as well (secondary objective) for 
 <ul>
 <li> Both lovers die together option can be set</li>
  <li> Both lovers can chat during the game </li>
-<li> Playable on public Among Us Servers</li>
+<li> Playable on public Among Us servers</li>
 <li> Custom server regions to join private servers</li>
 </ul>
 
