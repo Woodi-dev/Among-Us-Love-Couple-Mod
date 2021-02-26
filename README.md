@@ -49,6 +49,10 @@ Each lover can win as an Impostor or Crewmate as well (secondary objective) for 
 </table>
 <details>
   <summary>Changelog</summary>
+  <h3>v1.2</h3>
+ <ul>
+ <li>Fixed a bug: Love Couple was not be shown at Endscreen</li>
+ </ul>
  <h3>v1.1</h3>
  <ul>
  <li>Fixed a bug: Love Couple does not win if one player disconnects with 4 players alive</li>
