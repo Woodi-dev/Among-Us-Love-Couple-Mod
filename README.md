@@ -29,6 +29,11 @@ Each lover can win as an Impostor or Crewmate as well (secondary objective) for 
     <th>Mod Version</th>
     <th>Link</th>
   </tr>
+     <tr>
+    <td>v2021.3.5s</td>
+    <td>v1.2</td>
+    <td><a href="https://github.com/Woodi-dev/Among-Us-Love-Couple-Mod/releases/download/v1.2_2021.3.5s/Among.Us.Love.Couple.Mod.v1.2.v2021.3.5s.zip">Download</></td>
+  </tr>
     <tr>
     <td>v2020.12.9s</td>
     <td>v1.2</td>
