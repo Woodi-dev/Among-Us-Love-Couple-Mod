@@ -59,6 +59,12 @@ Each lover can win as an Impostor or Crewmate as well (secondary objective) for 
 </table>
 <details>
   <summary>Changelog</summary>
+   <h3>v1.3</h3>
+ <ul>
+ <li>Airship Update!</li>
+ <li>several bug fixes</li>
+ <li>v1.3 is not compatible with older Love Couple mod versions</li>
+ </ul>
   <h3>v1.2</h3>
  <ul>
  <li>Fixed a bug: Love Couple was not be shown at Endscreen</li>
