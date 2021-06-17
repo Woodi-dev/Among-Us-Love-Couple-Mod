@@ -49,27 +49,7 @@ Each lover can win as an Impostor or Crewmate as well (secondary objective) for 
     <td>v1.3</td>
     <td><a href="https://github.com/Woodi-dev/Among-Us-Love-Couple-Mod/releases/download/v1.3_2021.4.12s/Among.Us.Love.Couple.Mod.v1.3.v2021.4.12s.zip">Download</></td>
   </tr>
-     <tr>
-    <td>v2021.3.5s</td>
-    <td>v1.2</td>
-    <td><a href="https://github.com/Woodi-dev/Among-Us-Love-Couple-Mod/releases/download/v1.2_2021.3.5s/Among.Us.Love.Couple.Mod.v1.2.v2021.3.5s.zip">Download</></td>
-  </tr>
-    <tr>
-    <td>v2020.12.9s</td>
-    <td>v1.2</td>
-    <td><a href="https://github.com/Woodi-dev/Among-Us-Love-Couple-Mod/releases/download/v1.2_2020.12.9s/Among.Us.Love.Couple.Mod.1.2.zip">Download</></td>
-  </tr>
-   <tr>
-    <td>v2020.12.9s</td>
-    <td>v1.1</td>
-    <td><a href="https://github.com/Woodi-dev/Among-Us-Love-Couple-Mod/releases/download/v1.1_2020.12.9s/Among.Us.Love.Couple.Mod.1.1.zip">Download</></td>
-  </tr>
-
-  <tr>
-    <td>v2020.12.9s</td>
-    <td>v1.0</td>
-    <td><a href="https://github.com/Woodi-dev/Among-Us-Love-Couple-Mod/releases/download/v1.0_2020.12.9s/Among.Us.Love.Couple.Mod.1.0.zip">Download</></td>
-  </tr>
+  
 
 </table>
 <details>
